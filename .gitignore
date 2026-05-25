@@ -1,0 +1,5 @@
+# OSM data files
+*.osm.pbf
+
+# Windows Zone.Identifier files (WSL artifacts)
+*:Zone.Identifier
